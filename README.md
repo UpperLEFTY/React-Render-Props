@@ -26,7 +26,7 @@
 
 npx react-codemod rename-unsafe-lifecycles
 
-## This will rename all the affected lifecycle methods to prepare for the migrationn to React 17
+## This will rename all the affected lifecycle methods to prepare for the migration to React 17
 
 
 
