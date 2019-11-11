@@ -26,7 +26,8 @@
 
 npx react-codemod rename-unsafe-lifecycles
 
-## This will rename all the affected lifecycle
+## This will rename all the affected lifecycle methods
+
 
 ### We combined the state and props in the app. We are setting the state in our parent component and passing it down the component tree using props. Inside the render function, we are setting headerProp and contentProp used in child components. Hence the term passing props.
 
